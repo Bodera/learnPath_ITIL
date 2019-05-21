@@ -1,0 +1,20 @@
+# Contexto e relevância dos serviços de TI
+
+A área de TI é iinfluenciada pela contexto onde atua a organização, visto que está inserida atualmente em quase todos os processos de negócio. Assim faz-se necessária a adoção de uma abordagem que maximize a eficiência e a efetividade do valor criado pela área de TI para a organização, fazendo com que exista um real aumento da produtividade.
+
+Como as necessidades e as preferências dos clientes alteram-se e há um fluxo constante de evolução tecnológica, os produtos, serviços e seus itens componentes passaram a ter ciclos de vida cada vez menores, aumentando a pressão sobre o Time-to-Market das organizações. Tal fato exige grande atenção por parte das organizações a fim de evitar que seus proidutos e serviços, em qualquer etapa do processo produtivo ou da cadeia de distribuição, sejam considerados obsoletos, o que pode comprometer substancialmente a venda ou a aceitação pelo mercado e, consequentemente, a capacidade da organização em gerar valor.
+
+Inicia-se a observação de que o ambiente econômico atual enfatiza a diferenciação de produtos e serviços como um dos principais habilitadores da competitividade das organizações. Combinada com a atuação em nichos de mercado e o atendimento de necessidades e expectativas dos clientes de forma personalizada, a diferenciação exigida promoveu a introdução de inúmeros novos produtos e serviços, além de itens complementares, aumentando significativamente o leque de opções de produtos e serviços disponíveis no mercado em relação há alguns anos.
+
+A __IT Flex__ é uma metodologia que tem o objetivo dotar a área de TI de um elevado grau de flexibilidade, fazendo com que ela colabore para o aumento da adaptabilidade da organização.
+### Serviços de TI
+Uma área de TI fornece serviços de TI aos seus usuários finais. Os clientes desta área estão basicamente interessados no fornecimento do serviço de TI, e não no que é necessário fazer para o fornecimento do mesmo. As obrigações mútuas e os deveres de ambos (cliente e área de TI) vçao ao encontro dos níveis de serviço que estão descritos nos Acordos de Nível de Serviço (SLAs)
+
+### Processos de TI
+Para ser capaz de fornecer os serviços de TI de acordo com a funcionalidade, níveis de serviço e custo acordados, a forma de trabalho orientada a processos é a melhor forma de estruturação da área de TI. O framework de processos proposto tem grande parte de sua estrutura baseada nos processos definidos nas melhores práticas reunidas na ITIL. A ITIL destaca o conjunto de processos de suporte aos serviços de TI e o conjunto de processos de entrega dos serviços de TI, ambos necessários para o cumprimento de atividades rotineiras da área de TI. Os processos do conjunto de suporte aos serviços de TI permite ao cliente/usuário acessar e interagir com os serviços de TI fornecidos. Os processos do conjunto de entrega dos serviços de TI asseguram que o cliente obterá o que foi combinado em termos de serviços de TI para suportar os seus processos de negócio.
+
+### Organização dos recursos de TI
+Uma área de TI é caracterizada pela divisão de tarefas e responsabilidades entre seu pessoal, para poder fornecerr os serviços de TI demandados pelas áreas de negócio. As organizações têm por objetivo reduzir o seu Time-to-Market, ou, em outras palavras, estar à frente da concorrência, assegurando sua competitividade. Assim, as áreas de TI dessas organizações necessitam ser rápidas e flexíveis para lidarem com as constantes mudanças no mercado, assegurando a adaptabilidade de suas organizações. Programas de capacitação e mecanismos de alerta são dois importantes meios para o estabelecimento e manutenção de um ambiente propício a este objetivo nas áreas de TI.
+
+### Tecnologia de TI
+O gerenciamento da infra-estrutura de TI é feito primordialmente com o auxílio de ferramentas de gerenciamento de sistemas providas pelos diferentes fornecedores desta área. Os processos de Gerenciamento dos Serviços de TI são suportados por ferramentas específicas para tanto, as quais necessitam interagir com aquelas de gerenciamento de sistemas.
