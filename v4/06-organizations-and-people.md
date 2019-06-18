@@ -14,8 +14,7 @@ O que realmente vincula uma organização é um conjunto de objetivos, relaçõe
 
 Agora, isso pode parecer estranho, especialmente quando se considera uma única pessoa que pode atuar como uma organização, mas realmente funciona dessa maneira no mundo real. Quando criei minha empresa, a Dion Training Solutions, ela foi criada originalmente como uma empresa individual.
 
-Eu era uma pessoa solteira operando como uma organização
-em todos os meus relacionamentos de negócios. Agora, uma organização pode ser uma equipe de pessoas trabalhando para um objetivo comum também. Como minha empresa ficou maior, agora temos duas equipes de pessoas que compõem
+Eu era uma pessoa solteira operando como uma organização em todos os meus relacionamentos de negócios. Agora, uma organização pode ser uma equipe de pessoas trabalhando para um objetivo comum também. Como minha empresa ficou maior, agora temos duas equipes de pessoas que compõem
 duas organizações distintas dentro da empresa. Uma é a equipe de treinamento, que eu lidero, e a outra é a nossa equipe de operações, que meu diretor de operações lidera.
 
 Agora, a diretora de operações é minha esposa, mas ela tem sua própria equipe e pessoas que trabalham para ela. Este é um exemplo de como as pessoas se organizaram em torno de objetivos comuns dentro de uma organização empresarial maior para alcançar objetivos comuns em um método coordenado.
