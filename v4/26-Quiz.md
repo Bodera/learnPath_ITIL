@@ -6,4 +6,6 @@ __Answer__: The purpose of the `service value system` is to ensure that the orga
 
 2)Which ITIL concept describes governance?
 
-__Answer__: The components of the service value system are 'guiding principles', 'governance', 'service value chain', 'practices', and 'continual improvement.'
+__Answer__: The service value system.
+
+__Note__: The components of the `service value system` are 'guiding principles', 'governance', 'service value chain', 'practices', and 'continual improvement.'
