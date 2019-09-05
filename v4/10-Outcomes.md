@@ -66,47 +66,27 @@ It's all just about balancing this value, right? If we're the service provider, 
  the benefits of the service that we're going to consume. So, if I'm going to go ahead and outsource my servers, I want to make sure that it's cheaper for me to do that
  and provides me more value for me to do that than just to simply run the servers myself.
 
-Now, each personal organization is going to weigh, the value proposition and they're going to determine if it makes sense for them. If it does, were going to have a
- valid business agreement and we're going to be able to go into business together. You're going to provide me a service and I'm going to pay you to do that as the 
- consumer or the customer. So, going back to my example of Uber or Lyft, I find it works great for me when I'm traveling in a big city where the parking prices tend
- to be very high, the traffic tends to be heavy, and the number of drivers around is quite abundant so it's easy for me to get a Lyft or an Uber when I need one.
+Now, each personal organization is going to weigh, the value proposition and they're going to determine if it makes sense for them. If it does, were going to have a valid business agreement and we're going to be able to go into business together. You're going to provide me a service and I'm going to pay you to do that as the consumer or the customer. So, going back to my example of Uber or Lyft, I find it works great for me when I'm traveling in a big city where the parking prices tend to be very high, the traffic tends to be heavy, and the number of drivers around is quite abundant so it's easy for me to get a Lyft or an Uber when I need one.
 
-But when I travel to more remote locations, I prefer to have my own rental car because it solves the problem for me much more efficiently because there's less risk of 
- me not finding a parking space, because parking is low-cost in those areas and traffic is less of an issue because I'm outside  the city center. This is the whole idea
- of balancing those pros and those cons so we can make the idea  and figure out what gives us the most value. 
+But when I travel to more remote locations, I prefer to have my own rental car because it solves the problem for me much more efficiently because there's less risk of me not finding a parking space, because parking is low-cost in those areas and traffic is less of an issue because I'm outside  the city center. This is the whole idea of balancing those pros and those cons so we can make the idea  and figure out what gives us the most value. 
 
-So, we've talked a lot about outcomes so far in all of these examples, but there's also a similar concept known as output that it's important to understand when you 
- take the exam. An output is a tangible or intangible deliverable or an artifact that's created by an activity. Now, for the exam you have to understand the difference
- between an output and an outcome. Services facilitate outcomes through one or more outputs. So, what does that mean? Well, an output could be a report, it could be a 
- bill that you receive at the end of the service that you've consumed, or it can even be an email if you're using a webmail service. All of these things are considered outputs.
+So, we've talked a lot about outcomes so far in all of these examples, but there's also a similar concept known as output that it's important to understand when you take the exam. An output is a tangible or intangible deliverable or an artifact that's created by an activity. Now, for the exam you have to understand the difference between an output and an outcome. Services facilitate outcomes through one or more outputs. So, what does that mean? Well, an output could be a report, it could be a bill that you receive at the end of the service that you've consumed, or it can even be an email if you're using a webmail service. All of these things are considered outputs.
 
-They're that tangible item that comes out of using that service. Now, I like to think about this in a more tangible way, though. Consider this course. When I'm writing and 
- filming this lesson, the output is the final video that you're watching right now, but this isn't the outcome, it's just the output. So if the video isn't the outcome, what is?
-Well, it's the desired value that you're trying to achieve from this video.
+They're that tangible item that comes out of using that service. Now, I like to think about this in a more tangible way, though. Consider this course. When I'm writing and filming this lesson, the output is the final video that you're watching right now, but this isn't the outcome, it's just the output. So if the video isn't the outcome, what is? Well, it's the desired value that you're trying to achieve from this video.
 
 In the case of this video and the others in this course, the outcome for a student like you is to be able to pass your ITIL 4 Foundation exam.
 
-If you're able to do that after watching these videos, then you've achieved the outcome that both you and I have desired. This is an important concept and one that people often
- confuse because the output is easily measured, but often the outcomes are not. It's easy for me to create an outline and list all of the videos that we're going to produce for 
- this course.
+If you're able to do that after watching these videos, then you've achieved the outcome that both you and I have desired. This is an important concept and one that people often confuse because the output is easily measured, but often the outcomes are not. It's easy for me to create an outline and list all of the videos that we're going to produce for this course.
 
 We can say, for example, there's going to be 100 videos in this course and if I've already filmed 12 of those videos, then I'm 12% complete with creating this course, and so I 
  have outputted 12% of the product.
 
-Now, this is measuring outputs though, right? It's not measuring outcomes. Do we know that 100 videos is the right number to help you as a student? Get from the beginning to 
- the end and pass the exam? Well, if the outcome we want to achieve is a student passing, then 100 videos might not be the right measure. Maybe it only takes 25 videos
- or maybe it takes 200 videos.
+Now, this is measuring outputs though, right? It's not measuring outcomes. Do we know that 100 videos is the right number to help you as a student? Get from the beginning to the end and pass the exam? Well, if the outcome we want to achieve is a student passing, then 100 videos might not be the right measure. Maybe it only takes 25 videos or maybe it takes 200 videos.
 
-We'll have to figure that out and measure that as we go. And as we figure out what things are working, what things aren't, we add or we remove to the course to make sure that our
- students are always going to be able to pass the exam. Now, output is part of an outcome, but there's more to it than just outputs. So, when you think of outcomes, I want you to
- remember that it's what you're able to achieve as a result of the activity. As a result of this interaction. Not just the outputs that are being created. Going back to my Uber 
- and Lyft example, the outcome is me getting across town and to my meeting on time because of the service provided by those companies.
+We'll have to figure that out and measure that as we go. And as we figure out what things are working, what things aren't, we add or we remove to the course to make sure that our students are always going to be able to pass the exam. Now, output is part of an outcome, but there's more to it than just outputs. So, when you think of outcomes, I want you to remember that it's what you're able to achieve as a result of the activity. As a result of this interaction. Not just the outputs that are being created. Going back to my Uber and Lyft example, the outcome is me getting across town and to my meeting on time because of the service provided by those companies.
 
 The outcomes of taking this course isn't to say that you sat here and watched 100 videos for X number of hours or whatever it happens to be. But instead, it's focused on you passing the exam.
- That's the outcome that both you and I want to achieve here. Now, because of this, outcomes can be a bit more intangible, where outputs tend to be much more tangible. They're things 
- you can touch and feel like papers and reports and things like that. It also means that outputs are easier to measure because they're the results of an activity. So, when building your 
- service metrics, be careful not to measure just outputs, but instead, you need to put some thought behind how you're going to measure, your outcomes as well, because otherwise,
- you're going to have people working for you that game the system.
 
-They're going to be pushing different things to make it look like all those outputs are really high, but you're never going to achieve the outcomes you want. So really think about 
- that as you're building those metrics and be sure to measure your outcomes, not just your outputs.
+That's the outcome that both you and I want to achieve here. Now, because of this, outcomes can be a bit more intangible, where outputs tend to be much more tangible. They're things  you can touch and feel like papers and reports and things like that. It also means that outputs are easier to measure because they're the results of an activity. So, when building your service metrics, be careful not to measure just outputs, but instead, you need to put some thought behind how you're going to measure, your outcomes as well, because otherwise, you're going to have people working for you that game the system.
+
+They're going to be pushing different things to make it look like all those outputs are really high, but you're never going to achieve the outcomes you want. So really think about  that as you're building those metrics and be sure to measure your outcomes, not just your outputs.
